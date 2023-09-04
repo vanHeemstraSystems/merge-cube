@@ -3,6 +3,8 @@ merge-cube
 
 Based on "Getting Started with your Merge Cube" at https://support.mergeedu.com/hc/en-us/articles/360053398111-Getting-Started-with-your-Merge-Cube
 
+Based on "AR Through Your Webcam: Image Tracking With Vuforia | Studios Workshop Series" at https://www.youtube.com/watch?v=xsu0STVHaM8
+
 Download a template to create your own GIANT Merge Cube from paper at https://drive.google.com/open?id=0BxbzmqhGk54JMFJ3M29FYk9zOV9lZE9TSVR4Qi13aDhXb2Vn
 
 ## 100 - Introduction
