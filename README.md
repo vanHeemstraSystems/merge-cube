@@ -36,3 +36,5 @@ Extension Idea: Scale up to make a GIANT MERGE CUBE!
 ## 300 - Building Our Application
 
 Start reading at "Getting Started with your Merge Cube" at https://support.mergeedu.com/hc/en-us/articles/360053398111-Getting-Started-with-your-Merge-Cube
+
+## 400 - Conclusion
